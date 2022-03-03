@@ -1,0 +1,13 @@
+com\loss\entity\ConsEle.class
+com\loss\timingtask\TimingTask.class
+com\loss\entity\ExcConsReport.class
+com\loss\entity\MaxEle.class
+com\loss\util\JdbcUtil.class
+com\loss\entity\ConsReport.class
+com\loss\service\ConsEleAndTgLoss.class
+com\loss\Application.class
+com\loss\service\Similarity.class
+com\loss\entity\TgLossReport.class
+com\loss\service\PearsonTest.class
+com\loss\entity\TgLineLoss.class
+com\loss\entity\TgReport.class
